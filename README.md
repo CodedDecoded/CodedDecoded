@@ -2,6 +2,7 @@
 - 👀 Experienced Developer worked with Angular | React | Vuejs
 - 🌱 I’m currently enhancing my life skills
 - 💞️ I’m looking to collaborate on Angular fun web projects.
+- 🌏 Checkout my portfolio dineshonweb.com 
 - 📫 You can reach me on dineshkumarrrr@gmail.com
 
 <!---
